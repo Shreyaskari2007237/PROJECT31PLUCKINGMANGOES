@@ -13,7 +13,7 @@ var stone;
 var elastic;
 
 function preload(){
-	boy=loadImage("images/boy.png");
+	boy=loadImage("js/images/boy.png");
   }
 
 function setup() {
